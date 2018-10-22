@@ -4,7 +4,7 @@
 #' and returns it as a tibble. Messages and progress status are not printed.
 #' Execution stops if the specified file does not exist.
 #'
-#' @import readr read_csv
+#' @importFrom readr read_csv
 #'
 #' @param filename A character string specifying the file path.
 #'

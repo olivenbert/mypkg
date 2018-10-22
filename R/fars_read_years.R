@@ -7,6 +7,7 @@
 #' function can only read data that sits in the current working directory.
 #'
 #' @importFrom dplyr mutate select
+#' @import magrittr
 #'
 #' @param years A vector specifying the years of the accident csv files.
 #'
