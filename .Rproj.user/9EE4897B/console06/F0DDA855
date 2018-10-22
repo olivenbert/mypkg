@@ -1,5 +1,0 @@
-]0;~/data_science/github/mypkg[?1034hDEHER1M2471:mypkg dietzoli$ [KDEHER1M2471:mypkg dietzoli$ git status
-fatal: not a git repository (or any of the parent directories): .git
-]0;~/data_science/github/mypkgDEHER1M2471:mypkg dietzoli$ git ni  init
-Initialized empty Git repository in /Users/dietzoli/data_science/github/mypkg/.git/
-]0;~/data_science/github/mypkgDEHER1M2471:mypkg dietzoli$ git add .
