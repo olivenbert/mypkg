@@ -25,6 +25,8 @@
 #'
 #'
 fars_map_state <- function(state.num, year) {
+
+  STATE <- NULL
   filename <- make_filename(year)
   data <- fars_read(filename)
   state.num <- as.integer(state.num)
